@@ -46,7 +46,8 @@
   1. [Amendments](#amendments)
 
 ## 형 (Types)
-
+> [Airbnb](https://github.com/airbnb/javascript/blob/master/README.md#types)와 동일합니다.
+> 
   <a name="types--primitives"></a><a name="1.1"></a>
   - [1.1](#types--primitives) **원시형**: 원시형에 접근하면 값을 직접 조작하게 됩니다.
 
