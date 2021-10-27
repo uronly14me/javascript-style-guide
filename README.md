@@ -4,22 +4,6 @@
 
 *대체로 합리적인 JavaScript 접근 방법*
 
-> **참고**: 이 가이드는 사용자가 [Babel](https://babeljs.io)과 [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) 또는 이와 동등한 것을 사용한다고 가정합니다. 또한 사용자가 어플리케이션에 [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims)와 함께 shims/polyfills 또는 이와 동등한 것을 설치했다고 가정합니다. 
-
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-이 스타일 가이드는 다른 언어로도 제공됩니다. [Translation](#translation)을 보세요.
-
-다른 스타일 가이드
-
-  - [ES5 (구버전)](es5-deprecated/)
-  - [React](https://github.com/airbnb/javascript/tree/master/react/)
-  - [CSS-in-JavaScript](css-in-javascript/)
-  - [CSS & Sass](https://github.com/airbnb/css)
-  - [Ruby](https://github.com/airbnb/ruby)
-
 ## 목차
 
   1. [형 (Types)](#형-types)
