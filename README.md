@@ -1,8 +1,7 @@
-[원문: https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
-# Airbnb JavaScript 스타일 가이드() {
 
-*대체로 합리적인 JavaScript 접근 방법*
+# JavaScript 스타일 가이드
+[Airbnb 스타일가이드](https://github.com/airbnb/javascript)를 기준으로 작성되었습니다.
 
 ## 목차
 
