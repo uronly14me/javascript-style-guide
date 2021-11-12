@@ -46,8 +46,8 @@
   1. [Amendments](#amendments)
 
 ## 형 (Types)
-> [Airbnb](https://github.com/airbnb/javascript/blob/master/README.md#types)와 동일합니다.
-> 
+> [Airbnb](https://github.com/airbnb/javascript/blob/master/README.md#references)와 동일합니다.
+
   <a name="types--primitives"></a><a name="1.1"></a>
   - [1.1](#types--primitives) **원시형**: 원시형에 접근하면 값을 직접 조작하게 됩니다.
 
@@ -89,6 +89,7 @@
 **[⬆ back to top](#목차)**
 
 ## 참조 (References)
+> [Airbnb](https://github.com/airbnb/javascript/blob/master/README.md#types)와 동일합니다.
 
   <a name="references--prefer-const"></a><a name="2.1"></a>
   - [2.1](#references--prefer-const) 모든 참조에는 `var` 대신 `const`를 사용하세요. eslint: [`prefer-const`](https://eslint.org/docs/rules/prefer-const.html), [`no-const-assign`](https://eslint.org/docs/rules/no-const-assign.html)
@@ -140,7 +141,7 @@
 **[⬆ back to top](#목차)**
 
 ## 객체 (Objects)
-
+> [Airbnb](https://github.com/airbnb/javascript/blob/master/README.md#objects)와 동일합니다.
   <a name="objects--no-new"></a><a name="3.1"></a>
   - [3.1](#objects--no-new) 객체를 생성할 때는 리터럴 문법을 사용하세요. eslint: [`no-new-object`](https://eslint.org/docs/rules/no-new-object.html)
 
@@ -314,6 +315,7 @@
 **[⬆ back to top](#목차)**
 
 ## 배열 (Arrays)
+> [Airbnb](https://github.com/airbnb/javascript/blob/master/README.md#arrays)와 동일합니다.
 
   <a name="arrays--literals"></a><a name="4.1"></a>
   - [4.1](#arrays--literals) 배열을 생성할 때 리터럴 구문을 사용하세요. eslint: [`no-array-constructor`](https://eslint.org/docs/rules/no-array-constructor.html)
